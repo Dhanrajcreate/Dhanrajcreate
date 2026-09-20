@@ -235,10 +235,8 @@ Business Insights
 
 > This section will be updated as I complete new certifications and courses.
 
-* 🎓 Data Analytics — *Add certification*
-* 📊 Power BI — *Add certification*
-* 🐍 Python — *Add certification*
-* 📈 Google Analytics — *Add certification*
+* 🎓 Data Analytics — Add certificatio*n*
+
 
 ---
 
