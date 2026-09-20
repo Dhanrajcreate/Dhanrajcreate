@@ -235,7 +235,7 @@ Business Insights
 
 > This section will be updated as I complete new certifications and courses.
 
-* 🎓 Data Analytics — Add certificatio*n*
+* 🎓 Data Analytics — VDART Academy*
 
 
 ---
